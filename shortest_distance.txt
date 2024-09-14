@@ -1,0 +1,18 @@
+Dijkstra from Jaffa to Tubas: Jaffa  -> 100 -> Qalqilya -> 34 -> Tulkarem -> 57 -> Haifa -> 49 -> Jenin -> 30 -> Tubas
+total distance =270km
+
+BFS from Jaffa to Tubas: Jaffa  -> 100 -> Qalqilya -> 34 -> Tulkarem -> 57 -> Haifa -> 49 -> Jenin -> 30 -> Tubas
+total distance =270km
+
+Dijkstra from Jaffa to Haifa: Jaffa  -> 100 -> Qalqilya -> 34 -> Tulkarem -> 57 -> Haifa
+total distance =191km
+
+BFS from Jaffa to Haifa: Jaffa  -> 100 -> Qalqilya -> 34 -> Tulkarem -> 57 -> Haifa
+total distance =191km
+
+Dijkstra from Jaffa to Salfit: Jaffa  -> 100 -> Qalqilya -> 38 -> Salfit
+total distance =138km
+
+BFS from Jaffa to Salfit: Jaffa  -> 100 -> Qalqilya -> 38 -> Salfit
+total distance =138km
+
